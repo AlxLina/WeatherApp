@@ -1,7 +1,10 @@
 # WeatherApp
 WeatherApp on React
 
-##
+## Realized funcs:
+1. geting weather on request via API https://openweathermap.org/
+2. change the background pic depending on the weather
+3. you can get tempetature, sunrise & sunset time, location & precipitation
 
 ## Available Scripts
 
